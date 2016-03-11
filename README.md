@@ -35,4 +35,5 @@ Use [Android Studio](http://developer.android.com/sdk/index.html) to open and bu
 # Support
 
 Our Group consists of Oliver Ney, Michael Deutschen and Jan Bruckner.
+
 Feel free to contact us via GitHub if you have any questions, need further information or are interested in building this project yourself. We also appreciate feedback on our work in the form of comments or pull requests.
