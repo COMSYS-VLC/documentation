@@ -1,7 +1,7 @@
 # Introduction
 
 This is the documentation for the [Communication Systems Lab](https://www.comsys.rwth-aachen.de/teaching/ws-1516/lab-communication-systems/) at [COMSYS](https://www.comsys.rwth-aachen.de/home/) from [RWTH Aachen](https://www.rwth-aachen.de/).
-The Goal of our group (Oliver Ney, Michael Deutschen and Jan Bruckner) was to implement Visible Light Communication (VLC) and demonstrate the system using a fitting Use Case.
+The Goal of our group was to implement Visible Light Communication (VLC) and demonstrate the system using a fitting Use Case.
 We were inspired by the work of [Disney Research](https://www.disneyresearch.com/project/visible-light-communication/).
 
 We chose to control a Lego Train with a signal that communicates with the Train via VLC.
@@ -32,4 +32,7 @@ It uses [Arduino CMake](https://github.com/queezythegreat/arduino-cmake) and exp
 The Source Code of our Android App is in [this repository](https://github.com/COMSYS-VLC/TrainControl).
 Use [Android Studio](http://developer.android.com/sdk/index.html) to open and build the App.
 
+# Support
 
+Our Group consists of Oliver Ney, Michael Deutschen and Jan Bruckner.
+Feel free to contact us via GitHub if you have any questions, need further information or are interested in building this project yourself. We also appreciate feedback on our work in the form of comments or pull requests.
