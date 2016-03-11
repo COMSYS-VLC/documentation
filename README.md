@@ -4,7 +4,7 @@ This is the documentation for the [Communication Systems Lab](https://www.comsys
 The Goal of our group (Oliver Ney, Michael Deutschen and Jan Bruckner) was to implement Visible Light Communication (VLC) and demonstrate the system using a fitting Use Case.
 We were inspired by the work of [Disney Research](https://www.disneyresearch.com/project/visible-light-communication/).
 
-We chose a to control a Lego Train with a signal that communicates with the Train via VLC.
+We chose to control a Lego Train with a signal that communicates with the Train via VLC.
 Both, the Train and the Controller use an Arduino Mega and a self-made shield which enables VLC and Motor control. An Android App was created to communicate with the Track Controller via Bluetooth Low Energy (BLE) using the [BLEBee Shield](http://www.mkroll.mobi/?page_id=1070).
 The figure below shows this architecture.
 
